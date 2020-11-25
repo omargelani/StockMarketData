@@ -1,1 +1,1 @@
-# StockMarketData
+This excercise was performed to measure changes from 2014-2016 of certain stocks within Excel. The excercise contains VBA code which you can review within the repository and includes examining yearly change, percentage change, and the total volume for the year. 
